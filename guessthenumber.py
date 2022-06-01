@@ -16,3 +16,5 @@ if gue==guess:
     print("found")
 else:
     print("not found sorry")
+    print("try again")
+    
